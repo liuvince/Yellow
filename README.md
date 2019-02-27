@@ -2,6 +2,8 @@
 
 My first C++ application I made in order to enhance my skill set and for school coursework (2 weeks of work).
 
+![ScreenShot](https://raw.github.com/liuvince/yellow/master/interface.png)
+
 ### Prerequisites
 
 In order to play the game, you need to install the SFML library.
