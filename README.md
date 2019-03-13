@@ -20,10 +20,6 @@ In order to play the game, you need to install the SFML library.
 ### Movement
 * Arrow Keys
 
-### Game
-* Q: quit the game
-* P: pause the game
-
 ### Authors
 * **Vincent LIU**
 
