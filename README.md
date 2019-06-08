@@ -1,6 +1,6 @@
 # Pacman-like game
 
-My first C++ application I made in order to enhance my skill set and for school coursework (2 weeks of work).
+My first application written in C++ for school coursework during my penultimate year of study. It is a simple pacman-like game using the SMFL library.
 
 ![ScreenShot](https://raw.github.com/liuvince/yellow/master/interface.png)
 
