@@ -7,15 +7,21 @@ My first C++ application I made in order to enhance my skill set and for school 
 ### Prerequisites
 
 In order to play the game, you need to install the SFML library.
-> sudo apt-get install libsfml-dev
+```
+sudo apt-get install libsfml-dev
+```
 
 ### Installing
 
-> make
+```
+make
+```
 
 ### How to play
 
-> ./play
+```
+./play
+```
 
 ### Movement
 * Arrow Keys
